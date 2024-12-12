@@ -1,3 +1,3 @@
-# Dice-Roller
-It can roll multiple dice at once
+# Dice-Roller <br>
+It can roll multiple dice at once <br>
 Basic HTML, CSS, JS
