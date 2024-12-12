@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+    background-image: url(building3.avif);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#clock-container{
+    text-align: center;
+    align-content: center;
+    height: 90vh;
+}
+#clock{
+    font-family: monospace;
+    font-size: 180px;
+    color: rgb(224, 241, 255);
+    backdrop-filter: blur(3px);
+}
